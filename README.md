@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-
+<img align="right" alt="mygiff" src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estakhrian" alt="estakhrian" /></a> </p>
 
 - 👯 I’m looking to collaborate on **frontend project**

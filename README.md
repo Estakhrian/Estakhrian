@@ -10,7 +10,7 @@
 - 💬 Ask me about **HTML5, Css3, Flexbox, Gridcss, Tailwindcss, Javascript,
 -  React JS, Vue JS, Typescript**
 
-- 📫 How to reach me **@alirezaestakhrian@gmail.com**
+- 📫 How to reach me **estakhrianweb@gmail.com**
 
 - ⚡ Fun fact **I am funny Programmer**
 

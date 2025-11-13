@@ -5,7 +5,7 @@
 <img align="right" width="400px" height="400px" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif"/>
 - 👯 I’m looking to collaborate on **frontend project**
 
-- 👨‍💻 All of my projects are availa in my githubble at [https://github.com/Estakhrian](https://github.com/Estakhrian)
+- 👨‍💻 All of my projects are available in my githube account at [https://github.com/Estakhrian](https://github.com/Estakhrian)
 
 - 💬 Ask me about **HTML5, Css3, Flexbox, Gridcss, Tailwindcss, Javascript,
 -  React JS, Vue JS, Typescript**

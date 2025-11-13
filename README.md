@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estakhrian" alt="estakhrian" /></a> </p>
+
+<img src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif"/>
 - 👯 I’m looking to collaborate on **frontend project**
 
 - 👨‍💻 All of my projects are availa in my githubble at [https://github.com/Estakhrian](https://github.com/Estakhrian)
 
-- 💬 Ask me about **HTML5, Css3, Flexbox, Gridcss, Tailwindcss, Javascript, React JS, Vue JS, Typescript**
+- 💬 Ask me about **HTML5, Css3, Flexbox, Gridcss, Tailwindcss, Javascript,
+-  React JS, Vue JS, Typescript**
 
 - 📫 How to reach me **@alirezaestakhrian@gmail.com**
 

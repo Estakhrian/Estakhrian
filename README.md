@@ -7,8 +7,8 @@
 
 - 👨‍💻 All of my projects are available in my githube account at [https://github.com/Estakhrian](https://github.com/Estakhrian)
 
-- 💬 Ask me about **HTML5, Css3, Flexbox, Gridcss, Tailwindcss, Javascript,
--  React JS, Vue JS, Typescript**
+- 💬 Ask me about **HTML5,Css3,Flexbox,Gridcss,Tailwindcss,Javascript,
+  React JS,Vue JS,Typescript**
 
 - 📫 How to reach me **estakhrianweb@gmail.com**
 

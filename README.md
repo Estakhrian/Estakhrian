@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estakhrian" alt="estakhrian" /></a> </p>
 
-<img align="right" width="100px" height="100px" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif"/>
+<img align="right" width="400px" height="400px" src="https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif"/>
 - 👯 I’m looking to collaborate on **frontend project**
 
 - 👨‍💻 All of my projects are availa in my githubble at [https://github.com/Estakhrian](https://github.com/Estakhrian)

@@ -1,4 +1,4 @@
-<img src="./f6c048c177e9ed0a52940fdf7b67d492.jpg"/>
+<img height="350px" width="100%" src="./f6c048c177e9ed0a52940fdf7b67d492.jpg"/>
 <h1 align="center">Hi 👋, I'm Alireza Estakhrian</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estakhrian" alt="estakhrian" /></a> </p>
